@@ -1,0 +1,11 @@
+[ZWO ASI678MC]
+Bin = 1
+Capture Area Size = 1920 * 1080
+Colour Format = RAW8
+Exposure = 0.01 Sec
+Gain = 260
+Bayer = RG
+Debayer Type = RGGB
+White Balance (B) = 99
+White Balance (R) = 62
+
