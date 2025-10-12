@@ -1,6 +1,6 @@
 reference_file | AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2|-1
 # File address | frame_number | shift_x | shift_y | rotation_center_x | rotation_center_y | rotation | ranking
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2 | -1 | -28.0693 | -29.0658 | 4733.89 | 226.982 | -2.14577e-05 | 0.746436
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1 | 0 | 0 | 4705.83 | 197.917 | 0 | 0.857298
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2 | -1 | -13.8154 | -14.0521 | 4719.64 | 211.969 | 1.07288e-05 | 1.08537
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2 | -1 | -32.9131 | -34.1449 | 4738.74 | 232.062 | -3.67165e-05 | 1.27446
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2 | -1 | -28.0693 | -29.0658 | 4733.89 | 226.982 | -2.14577e-05 | 0.536832
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1 | 0 | 0 | 4705.83 | 197.917 | 0 | 0.635575
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2 | -1 | -13.8154 | -14.0521 | 4719.64 | 211.969 | 1.07288e-05 | 0.842125
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2 | -1 | -32.9131 | -34.1449 | 4738.74 | 232.062 | -3.67165e-05 | 0.993277
