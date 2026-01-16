@@ -1,6 +1,6 @@
-reference_file|AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2|-1
+!reference_file! | AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1
 # File address | frame_number | alignment_info
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2|-1|plate_solving | -27.879395 | -28.314941 | 1419.242065 | 3547.831543 | -0.000142 | 1.000000 | 0.536832
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2|-1|plate_solving | 0.000000 | 0.000000 | 854.858826 | 370.494110 | 0.000000 | 1.000000 | 0.635575
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2|-1|plate_solving | -14.541199 | -14.117004 | 869.400024 | 384.611115 | -0.000013 | 1.000000 | 0.842125
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2|-1|plate_solving | -33.999756 | -34.071533 | 888.858582 | 404.565643 | -0.000073 | 1.000000 | 0.993277
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2 | -1 | plate_solving | -27.879395 | -28.314941 | 1419.242065 | 3547.831543 | -0.000142 | 1.000000 | 0.536832
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1 | plate_solving | 0.000000 | 0.000000 | 854.858826 | 370.494110 | 0.000000 | 1.000000 | 0.635575
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2 | -1 | plate_solving | -14.541199 | -14.117004 | 869.400024 | 384.611115 | -0.000013 | 1.000000 | 0.842125
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2 | -1 | plate_solving | -33.999756 | -34.071533 | 888.858582 | 404.565643 | -0.000073 | 1.000000 | 0.993277
