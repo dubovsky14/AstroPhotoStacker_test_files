@@ -1,0 +1,7 @@
+!reference_file! | AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 0
+# File address | frame_number | alignment_info
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 3 | translation_only | -4.848694 | -9.783661 | 0.097962
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 2 | translation_only | -8.460510 | -5.180969 | 0.098727
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 1 | translation_only | 0.465576 | 0.458344 | 0.098930
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 4 | translation_only | -7.750305 | -12.914062 | 0.099429
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 0 | translation_only | 0.000000 | 0.000000 | 0.099488
