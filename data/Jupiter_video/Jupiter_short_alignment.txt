@@ -1,7 +1,7 @@
 !reference_file! | AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 0
 # File address | frame_number | alignment_info
-AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 3 | translation_only | -4.911987 | -9.826111 | 0.097962
-AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 2 | translation_only | -8.751099 | -5.219879 | 0.098727
-AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 1 | translation_only | 0.336914 | 0.464630 | 0.098930
-AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 4 | translation_only | -7.781250 | -12.905701 | 0.099429
-AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 0 | translation_only | 0.000000 | 0.000000 | 0.099488
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 0 | translation_only | 0.000000 | 0.000000 | sharpness_score: 0.099488,brightness_mean: 1393.101318,brightness_std: 5164.539551,brightness_min: 0.000000,brightness_max: 32640.000000,
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 1 | translation_only | 0.336914 | 0.464630 | sharpness_score: 0.098930,brightness_mean: 1383.183716,brightness_std: 5139.686523,brightness_min: 0.000000,brightness_max: 32640.000000,
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 2 | translation_only | -8.751099 | -5.219879 | sharpness_score: 0.098727,brightness_mean: 1394.211548,brightness_std: 5156.690918,brightness_min: 0.000000,brightness_max: 32640.000000,
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 3 | translation_only | -4.911987 | -9.826111 | sharpness_score: 0.097962,brightness_mean: 1379.129150,brightness_std: 5123.861816,brightness_min: 0.000000,brightness_max: 32640.000000,
+AstroPhotoStacker_test_files/data/Jupiter_video/Jupiter_short.ser | 4 | translation_only | -7.781250 | -12.905701 | sharpness_score: 0.099429,brightness_mean: 1383.840942,brightness_std: 5133.102539,brightness_min: 0.000000,brightness_max: 32640.000000,
