@@ -1,6 +1,6 @@
 !reference_file! | AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1
 # File address | frame_number | alignment_info
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2 | -1 | plate_solving | -29.471466 | -28.838257 | 376.411774 | 1143.838257 | -0.000085 | 1.000000 | 0.536832
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1 | plate_solving | 0.000000 | 0.000000 | 346.940308 | 1115.000000 | 0.000000 | 1.000000 | 0.635575
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2 | -1 | plate_solving | -14.621338 | -13.506836 | 361.561646 | 1128.506836 | -0.000113 | 1.000000 | 0.842125
-AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2 | -1 | plate_solving | -33.654785 | -34.414917 | 6181.344238 | 1245.966675 | -0.000203 | 1.000000 | 0.993277
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9138.CR2 | -1 | plate_solving | -29.471466 | -28.838257 | 376.411774 | 1143.838257 | -0.000085 | 1.000000 | stars_excentricity: 0.520887,brightness_mean: 726.235962,brightness_std: 719.793335,brightness_min: 0.000000,brightness_max: 32766.000000,
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9132.CR2 | -1 | plate_solving | 0.000000 | 0.000000 | 346.940308 | 1115.000000 | 0.000000 | 1.000000 | stars_excentricity: 0.622118,brightness_mean: 769.689880,brightness_std: 719.752258,brightness_min: 0.000000,brightness_max: 32766.000000,
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9135.CR2 | -1 | plate_solving | -14.621338 | -13.506836 | 361.561646 | 1128.506836 | -0.000113 | 1.000000 | stars_excentricity: 0.782349,brightness_mean: 747.077698,brightness_std: 720.787842,brightness_min: 0.000000,brightness_max: 32767.000000,
+AstroPhotoStacker_test_files/data/CanonEOS6DMarkII_Andromeda/IMG_9139.CR2 | -1 | plate_solving | -33.654785 | -34.414917 | 6181.344238 | 1245.966675 | -0.000203 | 1.000000 | stars_excentricity: 0.934362,brightness_mean: 721.682922,brightness_std: 720.258057,brightness_min: 0.000000,brightness_max: 32766.000000,
