@@ -1,0 +1,60 @@
+# this is a file for YAML parser CI tests
+catalogues:
+    - name: "Messier"
+      objects:
+        - number: 45
+          common_reference: "Pleidies cluster"
+          magnitude: 1.6
+        - number: 1
+          common_reference: "Crab nebula"
+        - number: 31
+          common_reference: "Andromeda galaxy" # comment
+          distance: 2500000
+        - number: 42
+          common_name: "Orion nebula" # intentionally different key
+    - name: "Caldwell"
+      objects:
+        - number: 4
+          common_reference: "Iris nebula"
+          photographed: True
+        - number: 99
+          magnitude: 0.61
+          name: "Coalsack Nebula"
+          photographed: False
+        - number: 20
+          common_reference: "North America Nebula"
+          type: "H-Alpha region"
+
+my_equipment:
+    mounts:
+        - name: "EQ6R-pro"
+          payload_kg: 20
+          supports_go_to: True
+        - name: "Sky Watcher Star Advanturer"
+          payload_kg: 5
+          supports_go_to: False
+    lenses:
+        - name: "Sigma 150-600 C"
+          manufacturer: "Sigma"
+          diameter_mm: 95
+        - name: "Samyang 135"
+          focal_lenght: 135
+          aperture: 2
+        - name: "Samyang 14 mm"
+          aperture: 2.8
+          focal_lenght: 14
+        - name: "Canon 24-105"
+          mount_type: "EF"
+        - focal_lenght: 50
+          has_terrible_chromatic_abberations: True
+          aperture: 1.8
+          manufacturer: "Canon"
+
+one_more_element:
+    - "bla"
+    - "bla1"
+    - "bla2"
+
+lets_try_inline_list: [3,1,4,1,5,9]
+maybe_one_more_key: 42
+still_eager_to_add_more_to_this_yaml: False
