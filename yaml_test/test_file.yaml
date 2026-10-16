@@ -58,3 +58,4 @@ one_more_element:
 lets_try_inline_list: [3,1,4,1,5,9]
 maybe_one_more_key: 42
 still_eager_to_add_more_to_this_yaml: False
+one_liner: {"key1": "value1", "key2": [1, 2, 3,[2,3,5,{'abc' : "value", 'cde' : "another_value", "one_more_dict": {'a' : 0, 'b' : 'bcd'}}]], "key3": "value3" }
